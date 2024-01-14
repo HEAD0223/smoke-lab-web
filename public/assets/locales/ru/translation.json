@@ -1,0 +1,39 @@
+{
+	"currency": " MDL",
+	"volume_unit": " мл",
+
+	"tg_buy": "Купить ",
+	"tg_order": "Заказать",
+
+	"card_add": "Добавить",
+	"card_chip": "Распродано",
+
+	"tabECigs": "e-Сигареты",
+	"tabLiquid": "Жидкость",
+
+	"search": "Поиск",
+	"back_button": "Назад",
+
+	"description": "Описание: ",
+	"sku": "Артикул: ",
+	"quantity": "Количество: ",
+	"manufacturer": "Производитель: ",
+	"volume": "Объем: ",
+
+	"form_name": "Имя",
+	"form_phone": "Телефон",
+	"form_address": "Адрес",
+	"form_comment": "Комментарий",
+
+	"cart_title": "Ваш заказ",
+	"cart_btn": "Редактировать",
+	"cart_total": "Итоговая цена: ",
+	"cart_promo": "Промокод",
+	"cart_gift": "За покупку 4 шт вы получаете 1 шт в подарок",
+	"cart_points": "Использовать поинты",
+
+	"cart_order": "Подтверждение Заказа",
+	"cart_decline": "Пожалуйста, заполните все необходимые поля.",
+	"cart_success": "Ваши товары отправлены",
+	"cart_error": "Заказ на ваш аккаунт уже существует"
+}

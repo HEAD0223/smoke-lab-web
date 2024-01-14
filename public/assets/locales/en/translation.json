@@ -1,0 +1,39 @@
+{
+	"currency": " MDL",
+	"volume_unit": " ml",
+
+	"tg_buy": "Buy ",
+	"tg_order": "Order",
+
+	"card_add": "Add",
+	"card_chip": "Out Of Stock",
+
+	"tabECigs": "e-Cigs",
+	"tabLiquid": "Liquid",
+
+	"search": "Search",
+	"back_button": "Back",
+
+	"description": "Description",
+	"sku": "SKU: ",
+	"quantity": "Quantity: ",
+	"manufacturer": "Manufacturer: ",
+	"volume": "Volume: ",
+
+	"form_name": "Name",
+	"form_phone": "Phone",
+	"form_address": "Address",
+	"form_comment": "Comment",
+
+	"cart_title": "Your Order",
+	"cart_btn": "Edit",
+	"cart_total": "Total price: ",
+	"cart_promo": "Promo code",
+	"cart_gift": "For purchasing 4 pcs you get 1 pc as a gift",
+	"cart_points": "Use points",
+
+	"cart_order": "Order Confirmation",
+	"cart_decline": "Please fill out all the required fields.",
+	"cart_success": "Your Products Were Sent",
+	"cart_error": "An order already exists for your account"
+}

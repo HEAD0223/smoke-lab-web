@@ -1,0 +1,39 @@
+{
+	"currency": " MDL",
+	"volume_unit": " ml",
+
+	"tg_buy": "Cumpără ",
+	"tg_order": "Ordin",
+
+	"card_add": "Adăuga",
+	"card_chip": "Epuizat",
+
+	"tabECigs": "e-Cigs",
+	"tabLiquid": "Lichid",
+
+	"search": "Căutare",
+	"back_button": "Înapoi",
+
+	"description": "Descriere: ",
+	"sku": "SKU: ",
+	"quantity": "Cantitate: ",
+	"manufacturer": "Producător: ",
+	"volume": "Volum: ",
+
+	"form_name": "Nume",
+	"form_phone": "Telefon",
+	"form_address": "Adresă",
+	"form_comment": "Comentariu",
+
+	"cart_title": "Comanda dumneavoastră",
+	"cart_btn": "Editați",
+	"cart_total": "Preț total: ",
+	"cart_promo": "Cod promoțional",
+	"cart_gift": "Pentru achizitionarea a 4 bucati primesti 1 bucata cadou",
+	"cart_points": "Folosește puncte",
+
+	"cart_order": "Confirmare Comandă",
+	"cart_decline": "Vă rugăm să completați toate câmpurile necesare.",
+	"cart_success": "Produsele dvs. au fost trimise",
+	"cart_error": "Există deja o comandă pentru contul dvs"
+}
