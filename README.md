@@ -52,6 +52,14 @@ npm start
 
 ## Media
 
+### Mobile
+
+<img src="./public/preview/mobile_smoke-lab-web_store.jpg" style="width:45%">
+
+### PC
+
+<img src="./public/preview/pc_smoke-lab-web_store.png" style="width:45%">
+
 ## Localization
 
 The application supports localization using i18n. Translation files are located in the `public/assets/locales` directory. Add new translations as needed.
