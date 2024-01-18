@@ -1,4 +1,4 @@
-# Smoke Lab (**Client**) · Complete
+# Smoke Lab (**Client**)
 
 ![Client](https://img.shields.io/badge/Client-Smoke_Lab-brightgreen)
 ![Status](https://img.shields.io/badge/Status-Complete-yellow)
