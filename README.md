@@ -36,12 +36,22 @@ git clone https://github.com/HEAD0223/smoke-lab-web.git
 cd smoke-lab-web
 ```
 
-2. Deploy your application on Netlify.
+2. Deploy your application on Netlify. Make sure to use the following command to install dependencies in the Netlify environment:
+
+```bash
+npm install --force
+```
+
+or
+
+```bash
+npm install --legacy-peer-deps
+```
 
 3. Open `smoke-lab-bot/bot/keyboards/inline.py` and update the `webAppUrl` variable with your Netlify app URL.
 
 ```bash
-webAppUrl = "NETLIFY"
+webAppUrl = "NETLIFY_URL"
 ```
 
 ## Media
