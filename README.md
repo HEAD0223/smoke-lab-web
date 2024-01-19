@@ -61,26 +61,26 @@ npm start
 <img src="./public/preview/pc_smoke-lab-web_store.png" style="width:45%">
 
 **List with items:**  
-![pc_Smoke-Lab_store-list](./public/preview/pc_Smoke-Lab_store-list.gif)
+![pc_Smoke-Lab_store-list](./public/preview/pc_Smoke-Lab_store-list.gif)  
 <img src="./public/preview/pc_smoke-lab-web_store_1.png" style="width:45%">
 <img src="./public/preview/pc_smoke-lab-web_store_2.png" style="width:45%">
 <img src="./public/preview/pc_smoke-lab-web_store_3.png" style="width:45%">
 
 **Item with flavor selection, and quantity:**  
-![pc_Smoke-Lab_store-item](./public/preview/pc_Smoke-Lab_store-item.gif)
+![pc_Smoke-Lab_store-item](./public/preview/pc_Smoke-Lab_store-item.gif)  
 <img src="./public/preview/pc_smoke-lab-web_store_4.png" style="width:45%">
-<img src="./public/preview/pc_smoke-lab-web_store_5.png" style="width:45%">
 <img src="./public/preview/pc_smoke-lab-web_store_6.png" style="width:45%">
+<img src="./public/preview/pc_smoke-lab-web_store_5.png" style="width:45%">
 <img src="./public/preview/pc_smoke-lab-web_store_7.png" style="width:45%">
 
 **Cart with user purchase and form for contact:**  
-![pc_Smoke-Lab_store-cart](./public/preview/pc_Smoke-Lab_store-cart.gif)
+![pc_Smoke-Lab_store-cart](./public/preview/pc_Smoke-Lab_store-cart.gif)  
 <img src="./public/preview/pc_smoke-lab-web_store_8.png" style="width:45%">
 <img src="./public/preview/pc_smoke-lab-web_store_9.png" style="width:45%">
 <img src="./public/preview/pc_smoke-lab-web_store_10.png" style="width:45%">
 
 **Order in user profile in Telegram bot and email for admins with user purchase and credentials:**  
-![pc_Smoke-Lab_user-order](./public/preview/pc_Smoke-Lab_user-order.gif)
+![pc_Smoke-Lab_user-order](./public/preview/pc_Smoke-Lab_user-order.gif)  
 <img src="./public/preview/pc_smoke-lab-web_store_11.png" style="width:45%">
 ![pc_smoke-lab-web_store_12](./public/preview/pc_smoke-lab-web_store_12.png)
 
