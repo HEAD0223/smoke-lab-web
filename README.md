@@ -3,6 +3,7 @@
 ![Client](https://img.shields.io/badge/Client-Smoke_Lab-brightgreen)
 ![Status](https://img.shields.io/badge/Status-Complete-yellow)
 ![Self Development](https://img.shields.io/badge/Project-Self_Development-red)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/74f868ea-43cb-4ad9-ade0-de173ae5e7bd/deploy-status)](https://app.netlify.com/sites/smoke-lab/deploys)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 This React-based web application, integrated with Material-UI, provides a streamlined experience for managing the Smoke Lab store. Tailored to match the aesthetic of the Smoke Lab Telegram theme, the application offers a comprehensive set of features. Users can effortlessly explore the catalog with a list of available items, leverage powerful filters and search functionality, add items to their cart, and seamlessly create orders. The application prioritizes user convenience, making the Smoke Lab store management intuitive and efficient.
